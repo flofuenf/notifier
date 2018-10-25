@@ -9,7 +9,7 @@ import (
 
 	"strings"
 
-	"github.com/getlantern/notifier/win"
+	"github.com/flofuenf/notifier/win"
 	"github.com/skratchdot/open-golang/open"
 )
 

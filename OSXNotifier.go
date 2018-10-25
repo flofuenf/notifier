@@ -8,7 +8,7 @@ import (
 	"os/exec"
 	"time"
 
-	"github.com/getlantern/notifier/osx"
+	"github.com/flofuenf/notifier/osx"
 	"github.com/skratchdot/open-golang/open"
 )
 
